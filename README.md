@@ -19,7 +19,12 @@ Le jeu intègre des mécaniques de gameplay uniques liées à la progression :
 * **TOUCHE E :** Activer la musique.
 * **ENTRÉE :** Démarrer le jeu ou recommencer.
 
-## 📥 Installation et Clonage
+## Comment lancer le jeu
+1. Téléchargez l'intégralité du dépôt.
+2. Assurez-vous que les fichiers `.dll` sont dans le même dossier que l'exécutable.
+3. Lancez **`Knight.exe`**.
+
+## Installation et Clonage
 Pour tester le projet localement, vous pouvez cloner ce dépôt via Git ou le télécharger manuellement.
 
 ### Via Git :
@@ -27,7 +32,4 @@ Ouvrez votre terminal et entrez la commande suivante :
 ```bash
 git clone [https://github.com/Mouhya01/Knight-Project.git](https://github.com/Mouhya01/Knight-Project.git)
 
-## Comment lancer le jeu
-1. Téléchargez l'intégralité du dépôt.
-2. Assurez-vous que les fichiers `.dll` sont dans le même dossier que l'exécutable.
-3. Lancez **`Knight.exe`**.
+
